@@ -1,0 +1,6 @@
+<StyleCopViolations>
+  <Violation Section="Root" LineNumber="1" Source="Card.cs" RuleNamespace="Microsoft.StyleCop.CSharp.DocumentationRules" Rule="FileMustHaveHeader" RuleId="SA1633">The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</Violation>
+  <Violation Section="Root" LineNumber="1" Source="Deck.cs" RuleNamespace="Microsoft.StyleCop.CSharp.DocumentationRules" Rule="FileMustHaveHeader" RuleId="SA1633">The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</Violation>
+  <Violation Section="Root" LineNumber="1" Source="Game.cs" RuleNamespace="Microsoft.StyleCop.CSharp.DocumentationRules" Rule="FileMustHaveHeader" RuleId="SA1633">The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</Violation>
+  <Violation Section="Root" LineNumber="1" Source="Person.cs" RuleNamespace="Microsoft.StyleCop.CSharp.DocumentationRules" Rule="FileMustHaveHeader" RuleId="SA1633">The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</Violation>
+</StyleCopViolations>

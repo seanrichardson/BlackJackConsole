@@ -1,0 +1,11 @@
+Black Jack
+
+Game - Rules
+
+	Deck
+		Card - 	Suits: 4 Suits 13cards per suit
+			Number: 2-10, J, Q, K, A
+	Person
+		Dealer
+		Player
+
