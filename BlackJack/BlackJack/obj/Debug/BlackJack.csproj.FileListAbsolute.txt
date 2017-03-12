@@ -10,3 +10,9 @@ E:\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
 E:\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
 E:\BlackJack\BlackJack\obj\Debug\BlackJack.exe
 E:\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Sean\Documents\SandBox\BlackJackConsole\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Sean\Documents\SandBox\BlackJackConsole\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Sean\Documents\SandBox\BlackJackConsole\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Sean\Documents\SandBox\BlackJackConsole\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\SandBox\BlackJackConsole\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Sean\Documents\SandBox\BlackJackConsole\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
